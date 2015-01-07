@@ -1,0 +1,8 @@
+-------------------------------	    COURSEDX - Steps	----------------------------------
+ 
+
+Xampp must be installed.
+The main folder 'website' must be moved in the folder 'htdocs' of xampp.
+The main welcome page can be accessed with the URL: "localhost/website/index.php"
+
+------------------------------------ ENJOY------------------------------------------------
